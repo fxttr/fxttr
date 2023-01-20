@@ -1,5 +1,9 @@
 ### Hello there.
 
+Software Developer at Panasonic,
+I study technomathematics on the side.
+I am sometimes more, sometimes less active here.
+
 <!--
 **fxttr/fxttr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
